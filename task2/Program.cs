@@ -41,8 +41,6 @@ int GetSumMToN(int m, int n)
     }
 }
 
-
-
 int M = Prompt("Введите число M: ");
 int N = Prompt("Введите число N: ");
 
